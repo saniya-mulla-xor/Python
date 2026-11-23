@@ -1,0 +1,25 @@
+Training notes - week 1
+Python is installed in two places: the laptop and the Ubuntu VM.
+Use VS Code with the Python extension.
+Remember to save the file before running it.
+
+Variables hold values; names are case sensitive.
+Strings use single or double quotes.
+Lists keep order and can change.
+Tuples keep order and cannot change.
+Dictionaries map keys to values.
+Sets keep unique items only.
+Café break at 10:30, back at 10:45.
+Loops repeat work: for and while.
+Functions group code and return values.
+Indentation is four spaces.
+Read error messages from the bottom up.
+Print shows what a variable holds.
+The input function always returns text.
+Convert with int or float when you need numbers.
+Files should be opened with a with statement.
+Always give encoding utf-8 when opening text files.
+Lunch at 13:00.
+Pair programming starts at 14:00.
+Commit small and often.
+Review the exercises tomorrow.
