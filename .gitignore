@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local to-do data and atomic-save temporary files
+todo.json
+my_todo.json
+*.tmp
+/output/squares.txt
